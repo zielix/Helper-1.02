@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.log
+backup_*/
+.claude/
+*.skill
+automation_test.json
+loot_debug/
